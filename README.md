@@ -7,3 +7,7 @@ Sandbox playground building Deep Learning models from scratch:
 - `TensorFlow`/`keras` for text generation
 - `TensorFlow` and `transformers` for GPT-2
 - `transformers` for BERT
+
+Note: the notebooks have different `requirements.txt` files to handle dependencies.
+
+We recommend creating different `conda` environments for each project.
